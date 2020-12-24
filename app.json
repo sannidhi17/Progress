@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "sdkVersion": "37.0.0",
+    "name": "lifestyle-tracker",
+    "slug": "lifestyle-tracker",
+    "version": "0.1.0",
+    "description": "An application for tracking lifestyle to see patterns",
+    "primaryColor": "#a17cb8"
+  }
+}
